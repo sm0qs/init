@@ -15,7 +15,7 @@ git branch -M main
 Make sure you have already created a repository on GitHub. Copy the repository SSH or HTTPS address. Example using SSH:
 
 ```bash
-git remote add origin git@github.com:Magic-Forces/init.git
+git remote add origin git@github.com:sm0qs/init.git
 ```
 
 ## 3. Push your code to GitHub
@@ -31,7 +31,7 @@ git push -u origin main
 Just add the remote repository and push everything:
 
 ```bash
-git remote add origin git@github.com:Magic-Forces/init.git
+git remote add origin git@github.com:sm0qs/init.git
 git branch -M main
 git push -u origin main
 ```
